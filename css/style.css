@@ -1002,7 +1002,8 @@ body::after {
   display: flex;
   align-items: center;
   justify-content: center;
-  font-weight: 500
+  font-weight: 500;
+  background: no-repeat center/cover
 }
 .service:not(:last-child) {
   border-radius: .75rem 2rem .75rem .75rem;
